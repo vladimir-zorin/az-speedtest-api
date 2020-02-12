@@ -8,5 +8,9 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.EventHubs" Version="4.1.0" />
+  </ItemGroup>
+
 
 </Project>
